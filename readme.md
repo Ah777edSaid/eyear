@@ -89,5 +89,5 @@
 
 !pip install pydub SpeechRecognition
 !apt-get install ffmpeg
- !pip install psutil
+!pip install psutil
 
