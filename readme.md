@@ -1,10 +1,6 @@
 # eyear Project
 
 
-## كيفية الاستخدام
-
-1. قم بتحميل هذا المشروع من GitHub.
-2. قم بتثبيت المشروع باستخدام `pip`:
 
    ```bash
    pip install git+https://github.com/اسم-المستخدم/اسم-المشروع.git](https://github.com/Ah777edSaid/eyear.git
