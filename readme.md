@@ -1,10 +1,6 @@
 # eyear Project
 
 
-
-   ```bash
-   pip install git+https://github.com/اسم-المستخدم/اسم-المشروع.git](https://github.com/Ah777edSaid/eyear.git
-
 3. تحميل المكتبات المطلوبة
 ## packages
 
